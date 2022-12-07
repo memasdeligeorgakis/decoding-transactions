@@ -1,0 +1,1 @@
+export { BlockDetails } from "./blockDetails";

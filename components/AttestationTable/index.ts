@@ -1,0 +1,1 @@
+export { AttestationTable } from "./attestationTable";
